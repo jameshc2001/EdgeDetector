@@ -1,4 +1,4 @@
-# PictureManipulator
+# PictureManipulator (a.k.a EdgeDetector)
 A fun little project implementing a few edge detection methods.  
 
 This is a small project I did for fun, it implements the following methods:  
